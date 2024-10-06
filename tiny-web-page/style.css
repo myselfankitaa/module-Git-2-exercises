@@ -20,6 +20,6 @@ h1:before {
   background-size: cover;
 }
 
-ol {
+ol, .note {
   padding-left: 3em;
 }
