@@ -37,7 +37,7 @@ For each of the 10 changes separately:
    and commit.
 4. Push your branch (to your fork).
 5. Make a pull request from your new branch, **making sure that
-   the "base" is set to `HackYourFuture-CPH/module-Git-2-exercises` `main`**. (The "base" of a pull request means "where you would like it to merged into").
+   the "base" is set to `HackYourFuture-CPH/module-Git-2-exercises` `main`**. (The "base" of a pull request means "where you would like it to be merged into").
 
 Prepare the pull requests, but don't merge them yet.
 
