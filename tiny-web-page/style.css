@@ -19,3 +19,7 @@ h1:before {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.note {
+  padding-left: 3em;
+}
