@@ -38,9 +38,9 @@ But, if it's _not_ mergeable (i.e. if the pull request says "This branch has con
 
 1. Resolve the merge conflict. You can do this from the GitHub web page, or from the command line, or probably from your IDE (e.g. Visual Studio Code). The pull request web page shows help on how to do this.
 2. Add a comment to the pull request explaining:
-3. Why the conflict happened (which things conflicted?)
-4. How you chose how to resolve the conflict. i.e. why did you choose to keep "A", or keep "B", or combine the two?
-5. Once the conflict is resolved, merge the pull request.
+   - Why the conflict happened (i.e. which things conflicted?)
+   - How you chose how to resolve the conflict. (i.e. why did you choose to keep "A", or keep "B", or combine the two?)
+3. Once the conflict is resolved, merge the pull request.
 
 At the end of the homework, you should have 10 closed pull requests in your fork. Instead of submitting a pull request into the team channel for review, just submit a link to your forked repository.
 
